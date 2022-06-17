@@ -1,8 +1,8 @@
 [package]
 name = "machine_uuid"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["danebalia <dane.balia@sourcing-sa.co.za>"]
-edition = "2018"
+edition = "2021"
 keywords = ["uuid", "machine"]
 readme = "README.md"
 description = "A library to retrieve a machines UUID"
